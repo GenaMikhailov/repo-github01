@@ -1,2 +1,2 @@
-First record commit 0 - edited in master branch
+First record commit 0 - added in bad banch
 iss53 branch checkout
