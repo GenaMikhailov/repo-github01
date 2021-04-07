@@ -1,2 +1,2 @@
-First record commit 0 - added in FIRST branch
+First record commit 0
 iss53 branch checkout
