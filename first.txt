@@ -1,2 +1,2 @@
-First record commit 0
+First record commit 0 - added first line in the master branch
 iss53 branch checkout
