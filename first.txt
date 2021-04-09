@@ -1,2 +1,4 @@
-First record commit 0 - added in FIRST branch
+First record commit 0 - added first line in the master branch
 iss53 branch checkout
+
+Added last line in the BAD3 branch
